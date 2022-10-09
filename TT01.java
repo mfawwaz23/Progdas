@@ -1,14 +1,12 @@
 import java.util.*;
 
 public class TT01 {
-
+    //NAMA : M. FAWWAZ KHAIRUL MUJTABA
+    //NIM  : 225150207111030
     public static void main(String args[]) {
         Scanner in = new Scanner(System.in);
-        int stok = 0, besar, kecil, total, totalHarga = 0;
+        int stok = 0, totalHarga = 0;
         String namaBarang, agen;
-        
-        besar = 33;
-        kecil = 67;
         
         System.out.println("Masukan nama agen");
         agen = in.nextLine();
