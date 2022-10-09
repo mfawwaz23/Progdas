@@ -1,6 +1,8 @@
 import java.util.*;
 
 public class abcd {
+    //NAMA : M. FAWWAZ KHAIRUL MUJTABA
+    //NIM  : 225150207111030
     private static Scanner input = new Scanner(System.in);
 
     public static void main(String[] args) {
